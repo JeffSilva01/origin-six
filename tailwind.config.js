@@ -10,6 +10,13 @@ module.exports = {
       text: 'var(--font-dm-sans)',
       title: 'var(--font-poppins)',
     },
+    extend: {
+      colors: {
+        dark: '#0F241D',
+        primary: '#69B99D',
+        second: '#CCF4E6',
+      },
+    },
   },
   plugins: [],
 }
