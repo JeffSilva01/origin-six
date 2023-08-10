@@ -37,4 +37,4 @@ Esse projeto está sob a licença MIT.
 
 ## Team
 
-Este projeto foi desenvolvido pela(s) seguinte(s) pessoa(s) [Jefferson Silva](https://github.com/JeffSilva01.png?size=100) e o layout feito com ♥ by Rocketseat
+Este projeto foi desenvolvido pela(s) seguinte(s) pessoa(s) [Jefferson Silva](https://www.linkedin.com/in/jeffsilva01/) e o layout feito com ♥ by [Rocketseat](https://www.rocketseat.com.br/)
