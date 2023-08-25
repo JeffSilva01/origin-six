@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://jeffsilva01.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://origin-six-jade.vercel.app/)
 
 ## 🔖 Layout
 
