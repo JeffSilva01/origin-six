@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O BeautySalon é um agregador de links para usar como cartão de visitas online.
+O BeautySalon é um site de salão de beleza.
 
 - [Acesse o projeto finalizado, online](https://origin-six-jade.vercel.app/)
 
